@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JuniperMar
 - 👀 I’m interested in math.
 - 🌱 I’m currently learning HTML/CSS and Python. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🦉 I’m currently working on a final project.
 
 <!---
 JuniperMar/JuniperMar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
