@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuniperMar
 - 👀 I’m interested in computational biology.
-- 🌱 I have experience in HTML/CSS/JavaScript, Swift, and Python.
+- 🌱 I have experience in HTML/CSS, Swift, and Python.
 - 🦉 I’m currently working on learning more Swift, Python, and JavaScript!
 
 <!---
